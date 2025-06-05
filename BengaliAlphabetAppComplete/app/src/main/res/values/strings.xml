@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bengali Alphabet App</string>
+    <string name="next">Next</string>
+    <string name="topic_vowels">Bengali Vowels</string>
+    <string name="topic_consonants">Bengali Consonants</string>
+    <string name="pronunciation_description">Hear pronunciation</string>
+    <string name="character_outline_description">Bengali character outline</string>
+</resources>
